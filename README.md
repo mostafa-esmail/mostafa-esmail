@@ -30,7 +30,7 @@ On a journey to become a <b>Business Consultant & Future CEO</b> 🏢✨</p>
 
 <h3>🚀 Roadmap</h3>
 <ol>
-  <li><b>Build strong CS foundation</b> → C++, Java, Algorithms, Databases.</li>
+  <li><b>Build strong CS foundation</b> → C++ , Problem Solving , OOP , Data Structure , Algorithms, Databases.</li>
   <li><b>Full Stack Development</b> → Web apps with JS, Node.js, SQL.</li>
   <li><b>ERP Systems</b> → Learn SAP / Oracle basics + integrations.</li>
   <li><b>Project Management</b> → Agile, Scrum, business processes.</li>
